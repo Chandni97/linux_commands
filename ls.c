@@ -33,13 +33,13 @@ int main(int argc, char* argv[])
 					printf("%s \n" , rdir->d_name);
 			}
 
-		if(strcmp(argv[1][0], '*')==0)
-		{
-			// while((rdir=readdir(cdir)) != NULL )
-			// {
-			// 	if(rdir->d_name)
-			// }
-		}
+		// if(strcmp(argv[1][0], '*')==0)
+		// {
+		// 	// while((rdir=readdir(cdir)) != NULL )
+		// 	// {
+		// 	// 	if(rdir->d_name)
+		// 	// }
+		// }
 	}
 
 	//printf("%s\n", argv[1]);
